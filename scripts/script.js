@@ -149,13 +149,13 @@ var images = [
     "../images/quiz1.png",
     "../images/quiz2.jpg",
     "../images/quiz3.jpg",
-    "../images/quiz4.jpg",
-    "../images/quiz5.jpg",
+    "../images/quiz4.JPG",
+    "../images/quiz5.JPG",
     "../images/quiz6.jpg",
     "../images/quiz7.jpg",
     "../images/quiz8.jpg",
-    "../images/quiz9.jpg",
-    "../images/quiz10.jpg",
+    "../images/quiz9.JPG",
+    "../images/quiz10.JPG",
   ];
 
   var index = 0;
